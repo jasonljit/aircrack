@@ -4,4 +4,4 @@
 
 ### /3000p
 
-- dictionary used: ['darkc0de.lst']
+- dictionary used: ['darkc0de.lst', 'rockyou.txt', big_wpa_list_1]
